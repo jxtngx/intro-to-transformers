@@ -1,13 +1,14 @@
 # Introduction to Transformers
 
-This repo serves as a guide to transformer variations, and is a companion reference to the [torchtune cookbook](https://github.com/jxtngx/torchtune-cookbook), [llamastack cookbook](https://github.com/jxtngx/llamastack-cookbook), and [applied llama engineering](https://github.com/jxtngx/applied-llama-engineering) e2e post-training flow and agent application.
+This repo serves as a guide to transformer variations, and is a companion to [Intro to Post-training](https://github.com/jxtngx/intro-to-post-training), [Intro to Applied AI](https://github.com/jxtngx/intro-to-applied-ai), [Applied AI Engineering](https://github.com/jxtngx/applied-ai-engineering), and [Applied AI with Llama and Next](https://github.com/jxtngx/applied-ai-with-llama-and-next).
 
 Ideally, the order in which to reference the repos is:
 
 1. this repo
-2. torchtune-cookbook
-3. llamastack-cookbook
-4. applied-llama-engineering
+2. Intro to Post-training
+3. Intro to Applied AI
+4. Applied AI Engineering
+5. Applied AI with Llama and Next
 
 ## Transformer Variations
 
