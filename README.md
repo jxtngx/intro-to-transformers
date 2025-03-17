@@ -1,6 +1,6 @@
 # Introduction to Transformers
 
-This repo serves as a guide to transformer variations, and is a companion to [Intro to Post-training](https://github.com/jxtngx/intro-to-post-training), [Intro to Applied AI](https://github.com/jxtngx/intro-to-applied-ai), [Applied AI Engineering](https://github.com/jxtngx/applied-ai-engineering), and [Applied AI with Llama and Next](https://github.com/jxtngx/applied-ai-with-llama-and-next).
+This repo serves as a guide to transformer variations, and is a companion to [Intro to Post-training](https://github.com/jxtngx/intro-to-post-training), [Intro to Applied AI](https://github.com/jxtngx/intro-to-applied-ai), [Applied AI Engineering](https://github.com/jxtngx/applied-ai-engineering), and [Applied Fullstack AI](https://github.com/jxtngx/applied-fullstack-ai).
 
 Ideally, the order in which to reference the repos is:
 
@@ -8,7 +8,7 @@ Ideally, the order in which to reference the repos is:
 2. Intro to Post-training
 3. Intro to Applied AI
 4. Applied AI Engineering
-5. Applied AI with Llama and Next
+5. Applied Fullstack AI
 
 ## Transformer Variations
 
